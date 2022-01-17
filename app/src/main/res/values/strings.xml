@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NOTESAVE</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_note_title">New Note</string>
+    <string name="lbl_edit_note_title">Edit Note</string>
+    <string name="hint_enter_note">Enter your note!</string>
+    <string name="start">Start Now</string>
+
+    <string name="name">Muhammad Arsyi Sulthoni</string>
+    <string name="about_this_app">About this APP.</string>
+    <string name="version_1_5">Version : 1.5</string>
+    <string name="licence">GPL v3</string>
+    <string name="share">Share  </string>
+    <string name="rate_us">Rate Us</string>
+    <string name="initiated_by">Initiated By</string>
+    <string name="initiator">Initiator</string>
+    <string name="about_initiator">About Initiator</string>
+    <string name="link">link</string>
+    <string name="tugas">Tugas mobprog</string>
+</resources>
